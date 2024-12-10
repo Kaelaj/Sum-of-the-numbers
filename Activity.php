@@ -1,6 +1,6 @@
 <?php
-$numberOne = 20;
-$numberTwo = 10;
+$numberOne = 30;
+$numberTwo = 5;
 
 $n = 0;
 while($n < 1) {
